@@ -8,14 +8,14 @@ Lab 3
 You have been asked to prepare a report which will analyze the test grades for a number of students in a class.  The data used by the program should be entered by the user of the program and stored in a sequential disk file.
 
 Lab 4
-You have been asked by the Registrar’s office of a local college to produce a program to search student data to determine the academic standing of a student.   The Registrar would like a program which will search a data file which consists of the student ID, student last name, first name and GPA, and display various results based upon the student’s GPA.  Use the either the linear or binary search SEARCH ALGORITHM to build this program.
+You have been asked by the Registrarâ€™s office of a local college to produce a program to search student data to determine the academic standing of a student.   The Registrar would like a program which will search a data file which consists of the student ID, student last name, first name and GPA, and display various results based upon the studentâ€™s GPA.  Use the either the linear or binary search SEARCH ALGORITHM to build this program.
 
 Final
 build a complete Visa Card Menu System entering ssn, name, address, city, state, zip, visa #.
 
 
 Other
-formatted date example - 
+formatted date example
 nested if example
 average of three numbers function example
 displays water bill
